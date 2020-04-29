@@ -1,8 +1,8 @@
 <h1 align="center">Vagas</h1>
-<p align="center">Espaço para divulgação de vagas para desenvolvedores em aracaju.</p>
+<p align="center">Espaço para divulgação de vagas para desenvolvedores em Sergipe.</p>
 
 # Vagas Aracaju
-Espaço para divulgação de vagas para desenvolvedores em Aracaju
+Espaço para divulgação de vagas para desenvolvedores em Sergipe
 
 Este projeto foi baseado no frontendbr/vagas :heart:
 https://github.com/frontendbr/vagas
